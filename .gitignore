@@ -1,4 +1,6 @@
-Cargo.lock
 **/*target
 **/*dist
 .idea
+*.nix
+flake.lock
+Cargo.lock
